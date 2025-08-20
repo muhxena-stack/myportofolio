@@ -1,3 +1,13 @@
 daftar branch:  fitur-2
   fitur-kontak
 
+daftar commit: 89bfe3a (HEAD -> main, origin/main) perubahan terakhir
+8bd2495 (fitur-2) baru2
+a2692e5 perubahan
+4209b52 deskripsi
+a9e1b11 commit 1
+
+isi gitinore: rahasia
+daftar remote: origin  git@github.com:muhxena-stack/myportofolio.git (fetch)
+origin  git@github.com:muhxena-stack/myportofolio.git (push)
+
